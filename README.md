@@ -1,0 +1,1 @@
+outputs: protein scaffold extension.
